@@ -2,7 +2,7 @@
 #include "main.h"
 /**
  * array_range - creates an array of integers
- * @main: function parameter
+ * @min: function parameter
  * @max: func para
  * Return: NULL or pointer
  */
